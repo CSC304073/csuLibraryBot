@@ -9,9 +9,9 @@ class csuLibrary():
 
     def __init__(self):
         self.session = requests.session()
-        self.username = "8209180334"
-        self.pwd = "294633"
-        self.area = "53"
+        self.username = "8209190129"
+        self.pwd = "csc189736"
+        self.area = "114"
         self.segment = ''
 
     # 登录，获取一个验证id，这个id将会用于获取token
